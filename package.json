@@ -1,0 +1,22 @@
+{
+  "name": "shaz-npm",
+  "version": "1.0.0",
+  "description": "Shazam plugin for make a slide for an npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/shaz-npm.git"
+  },
+  "keywords": [
+    "shazam"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/shaz-npm/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/shaz-npm"
+}
