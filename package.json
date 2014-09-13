@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DamonOehlman/shaz-npm/issues"
   },
-  "homepage": "https://github.com/DamonOehlman/shaz-npm"
+  "homepage": "https://github.com/DamonOehlman/shaz-npm",
+  "dependencies": {
+    "crel": "~2.1.1"
+  }
 }
