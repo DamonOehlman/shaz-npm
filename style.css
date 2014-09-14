@@ -1,0 +1,21 @@
+section.bespoke-slide.npm {
+  background-color: #ccc;
+  background-position: 20px 20px;
+  color: #CD3632;
+}
+
+div.npm-package {
+  margin-bottom: 10px;
+}
+
+div.npm-package a {
+  box-shadow: #aaa 0 1px 4px;
+  color: #CD3632;
+  background: #e8e8e8;
+  display: inline-block;
+  border: 5px solid currentColor;
+  padding: 20px;
+  text-align: center;
+  width: 50%;
+}
+
