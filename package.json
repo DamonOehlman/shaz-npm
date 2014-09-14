@@ -1,7 +1,7 @@
 {
   "name": "shaz-npm",
   "version": "1.0.0",
-  "description": "Shazam plugin for make a slide for an npm module",
+  "description": "Shazam plugin for calling out npm modules in your slide deck",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
